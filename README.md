@@ -9,3 +9,14 @@ HOPE; our name says it all. With our project, we aim to simplify the user experi
 
 ## Back-End:
 - PHP – For connection to database, user authentication and form validation of Sign up form.
+
+![image](https://github.com/user-attachments/assets/8384d728-ee82-4bb4-8c16-d11b2b9fbed8)
+
+## Home page
+
+![image](https://github.com/user-attachments/assets/06df38f1-c6ee-470a-a077-db11b61f9a8b)
+
+![image](https://github.com/user-attachments/assets/3d312b65-842e-4719-9aa5-39e70885c8ab)
+
+![image](https://github.com/user-attachments/assets/b5d9bed4-9fa4-4db5-9712-e60255489e18)
+
